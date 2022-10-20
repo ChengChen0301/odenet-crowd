@@ -1,5 +1,5 @@
 # odenet_crowd
-This repository contains codes for producing synthetic data, training the model and producing all figures in
+This repository contains codes for producing synthetic data, training the model and producing all figures in the article
 https://arxiv.org/abs/2210.09602
 
 Process 1: produce the simulation data
