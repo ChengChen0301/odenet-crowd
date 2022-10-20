@@ -1,0 +1,4 @@
+the networks approximate force
+net1: 4-8-2
+net2: 1-16-8-1
+net3: 1-16-8-1
